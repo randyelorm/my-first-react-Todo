@@ -1,0 +1,27 @@
+.form_box {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.a_single_todo_box {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin: 0.5rem;
+}
+
+.card {
+    box-shadow: 0 0 1em rgba(0,0,0,0.2) !important;
+}
+
+input {
+    padding:1rem;
+}
+
+.update-btn {
+    padding:1rem;
+}
