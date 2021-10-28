@@ -23,9 +23,7 @@ class TodoForm extends Component {
       this.setState({
           activity: ""
       })
-      this.setState({
-          taskCount: this.state.taskCount + 1
-      })
+      
     
   }
 
